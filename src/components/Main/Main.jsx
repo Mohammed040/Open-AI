@@ -14,7 +14,7 @@ const Main = () => {
     
       <div className="main">
         <div className="nav">
-            <p>Gemini</p>
+            <p>AI-Powered Chat Assistant</p>
             <img src={assets.user_icon} alt="" />
         </div>
         <div className="main-container">
@@ -76,7 +76,7 @@ const Main = () => {
                 </div>
               </div>
                 <p className="bottom-info">
-                  Gemini may display inaccurate info, including about people, so double-check its responses. Your privacy and Gemini Apps.
+                Chat Assistant may display inaccurate information, including about people, so double-check its responses. Your privacy and Chat Assistant terms are available.
                 </p>
             </div>
         </div>
